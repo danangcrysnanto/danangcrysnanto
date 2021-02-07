@@ -6,12 +6,12 @@ I am Danang and I have extensive experiences working on the bioinformatics of wh
 *Skills*
 
 -	Professional experiences in bioinformatics data analyses, including Next generation sequencing, transcriptomic, graph-based genomics, genetic variant discovery, and basic genome assembly
--	Main programming languages: Bash (Unix/Linux), R/Bioconductor, Python
+-	Main programming languages: Bash (Unix/Linux), R/Bioconductor, Python, C++ for bioinformatics
 -	Data science: Tidyverse, Python Data Science (Numpy, Pandas, Jupyter)
 -	Application development: Shiny, Flask, Plotly
 -	Computational pipelines: Snakemake 
 -	Reproducible data: Git, Docker
 -	High Performance Computing (HPC IBM LSF)
--	Others: Affinity Designer, Affinity Photo, Ms. Office, VIM, Sublime Text
+-	Others: Affinity Designer, Affinity Photo, Ms. Office, VIM, Latex, Sublime Text
 
 

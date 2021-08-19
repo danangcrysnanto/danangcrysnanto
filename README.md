@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-I am Danang and I have extensive experiences working on the bioinformatics of whole genome sequencing data. Currently I am working to apply graph analytic in order to integrate diverse genetic variations into a unified graph-based pangenome. With this, I extended functional genomics analysis to the genomic regions inaccessible with current standard of a linear genome. 
+I am Danang and I have extensive experiences working on the bioinformatics of whole genome sequencing data. Currently I am working to apply graph analytic in order to integrate diverse genetic variations into a unified graph-based pangenome. With this, I extended functional genomics analysis to the genomic regions inaccessible with current standard of a linear genome and facilitate integrative multi-omics data analysis and vizualisation.
 
 *Skills*
 
